@@ -22,6 +22,6 @@
     "styled-components": "^3.2.1"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs": "^4.11.1"
+    "@netlify/plugin-nextjs": "^3.9.2"
   }
 }
