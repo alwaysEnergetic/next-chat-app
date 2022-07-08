@@ -7,7 +7,7 @@ import Setup from "../components/Setup";
 
 export default class extends React.Component {
   state = {
-    visible: 0,
+    visible: 0
   };
 
   componentDidMount() {
